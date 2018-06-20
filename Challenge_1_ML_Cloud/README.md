@@ -330,6 +330,7 @@ Congrats on getting Greengrass running!
 
 ### Lambda setup:
 Download Lambda zip file greengrassSagemakerInference.zip located in same github.
+https://github.com/yunguru/aws-ml-iot-lab/blob/master/Challenge_2/greengrassSagemakerInference.py
 Unzip the file on your machine.
 Open greengrassSagemakerInference.py, check line #24, endpoint_name = 'xxxxx', replace xxxx with actual SagemakerEndpoint you created during Sagemaker prechallenge lab.
 Save the file.
